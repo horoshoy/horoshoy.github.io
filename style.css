@@ -62,12 +62,12 @@ header .nav-menu a:hover {
 }
 .pro-features li.big-title {
     font-weight: 600;
-    color: #1A76D1;
+    color: #de5285;
     font-size: 15px;
 }
 .pro-features li.title {
     font-weight: 600;
-    color: #1A76D1;
+    color: #de5285;
     font-size: 15px;
 }
 .pro-features .button .btn {
@@ -95,7 +95,7 @@ header .nav-menu a:hover {
     line-height: 45px;
     font-size: 14px;
     border-radius: 5px 0 0 5px;
-    background: #1A76D1;
+    background: #de5285;
     text-align: center;
     color: #fff;
     top: 0;
@@ -108,7 +108,7 @@ header .nav-menu a:hover {
     bottom: 15px;
     right: 15px;
     padding: 10px 20px;
-    background: #1a76d1;
+    background: #de5285;
     color: #fff;
     font-size: 25px;
     width: 45px;
@@ -152,7 +152,7 @@ header .nav-menu a:hover {
     line-height: 45px;
     font-size: 21px;
     border-radius: 5px 0 0 5px;
-    background: #1A76D1;
+    background: #de5285;
     text-align: center;
     color: #fff !important;
     top: 0;
@@ -182,7 +182,7 @@ header .nav-menu a:hover {
     cursor: pointer;
 }
 .color-plate span.color1 {
-    background: #1A76D1;
+    background: #de5285;
 }
 .color-plate span.color2 {
     background: #2196F3;
@@ -256,7 +256,7 @@ header .nav-menu a:hover {
 	font-weight:400;
 }
 .header .top-link li:hover a{
-	color:#1A76D1;
+	color:#de5285;
 }
 .header .top-contact{
 	float:right;
@@ -273,10 +273,10 @@ header .nav-menu a:hover {
 	font-size:14px;
 }
 .header .top-contact li a:hover{
-	color:#1A76D1;
+	color:#de5285;
 }
 .header .top-contact li i{
-	color:#1A76D1;
+	color:#de5285;
 	margin-right:8px;
 }
 .header .header-inner {
@@ -331,7 +331,7 @@ header .nav-menu a:hover {
 	bottom: 0;
 	height: 3px;
 	width:0%;
-	background: #1A76D1;
+	background: #de5285;
 	border-radius: 5px 5px 0 0;
 	opacity:0;
 	visibility:hidden;
@@ -345,7 +345,7 @@ header .nav-menu a:hover {
 	width: 100%;
 }
 .header .nav li.active a{
-	color:#1A76D1;
+	color:#de5285;
 }
 .header .nav li:hover a:before{
 	opacity:1;
@@ -353,7 +353,7 @@ header .nav-menu a:hover {
 	visibility:visible;
 }
 .header .nav li:hover a{
-	color:#1a76d1;
+	color:#de5285;
 }
 .header .nav li a i {
 	display: inline-block;
@@ -399,7 +399,7 @@ header .nav-menu a:hover {
 	width: 40px;
 	line-height: 40px;
 	color: #fff;
-	background: #1A76D1;
+	background: #de5285;
 	border-radius: 4px;
 	text-align: center;
 	font-size: 15px;
@@ -467,7 +467,7 @@ header .nav-menu a:hover {
 	border-bottom:0px;
 }
 .header .nav li .dropdown li:hover a{
-	color:#1A76D1;
+	color:#de5285;
 }
 .header .nav li .dropdown li a:hover{
 	border-color:transparent;
@@ -491,7 +491,7 @@ header .nav-menu a:hover {
 	width: 35px;
 	line-height: 35px;
 	text-align: center;
-	background: #1a76d1;
+	background: #de5285;
 	border-radius: 4px;
 	display: block;
 	font-size: 12px;
@@ -544,7 +544,7 @@ header .nav-menu a:hover {
 	height: 50px;
 	top: 0;
 	width: 50px;
-	background: #1A76D1;
+	background: #de5285;
 	border: none;
 	color: #fff;
 	border-radius: 0 4px 4px 0;
@@ -552,7 +552,7 @@ header .nav-menu a:hover {
 }
 .header .search-form button:hover{
 	background:#fff;
-	color:#1A76D1;
+	color:#de5285;
 	border-color:#e6e6e6;
 }
 /* Header Sticky */
@@ -596,7 +596,7 @@ header .nav-menu a:hover {
 	line-height: 42px;
 }
 .slider .single-slider h1 span{
-	color:#1a76d1;
+	color:#de5285;
 }
 .slider .single-slider p {
 	color: #2C2D3F;
@@ -608,7 +608,7 @@ header .nav-menu a:hover {
 }
 .slider .single-slider .btn{
 	color:#fff;
-	background:#1a76d1;
+	background:#de5285;
 	font-weight:500;
 	display:inline-block;
 	margin:0;
@@ -622,7 +622,7 @@ header .nav-menu a:hover {
 	color:#fff;
 }
 .slider .single-slider .btn.primary:before{
-	background:#1A76D1;
+	background:#de5285;
 }
 .slider .owl-carousel .owl-nav {
 	margin: 0;
@@ -636,7 +636,7 @@ header .nav-menu a:hover {
 	width: 50px;
 	line-height: 50px;
 	text-align: center;
-	background: #1A76D1;
+	background: #de5285;
 	color: #fff;
 	font-size: 26px;
 	position: absolute;
@@ -691,7 +691,7 @@ header .nav-menu a:hover {
 	text-align: left;
 	z-index:3;
 	border-radius:5px;
-	background:#1A76D1;
+	background:#de5285;
 	 -webkit-transition: all .3s ease-out 0s;
     -moz-transition: all .3s ease-out 0s;
     -ms-transition: all .3s ease-out 0s;
@@ -714,7 +714,7 @@ header .nav-menu a:hover {
     margin: 0 auto;
     width: 80%;
     height: 90%;
-    background:#1A76D1;
+    background:#de5285;
     opacity: 0;
     -webkit-transition: all .3s ease-out 0s;
     -moz-transition: all .3s ease-out 0s;
@@ -832,7 +832,7 @@ header .nav-menu a:hover {
 	right: -72px;
 	top: 60px;
 	width: 118px;
-	border-bottom: 3px dotted #1a76d1;
+	border-bottom: 3px dotted #de5285;
 }
 .Feautes .single-features.last::before{
 	display:none;
@@ -842,7 +842,7 @@ header .nav-menu a:hover {
 }
 .Feautes .single-features .signle-icon i{
 	font-size:50px;
-	color:#1a76d1;
+	color:#de5285;
 	position:absolute;
 	left:50%;
 	margin-left:-50px;
@@ -858,7 +858,7 @@ header .nav-menu a:hover {
 	transition:all 0.4s ease;
 }
 .Feautes .single-features:hover .signle-icon i{
-	background:#1A76D1;
+	background:#de5285;
 	color:#fff;
 	border-color:transparent;
 }
@@ -911,7 +911,7 @@ header .nav-menu a:hover {
 	bottom:0;
 	height:2px;
 	width:50px;
-	background:#1a76d1;
+	background:#de5285;
 }
 .why-choose .choose-left p{
 	margin-bottom:35px;
@@ -928,7 +928,7 @@ header .nav-menu a:hover {
 	width:15px;
 	line-height:15px;
 	text-align:center;
-	background:#1a76d1;
+	background:#de5285;
 	color:#fff;
 	font-size:14px;
 	border-radius:100%;
@@ -961,7 +961,7 @@ header .nav-menu a:hover {
 	margin-left: -35px;
 	margin-top: -35px;
 	font-size: 21px;
-	background: #1a76d1;
+	background: #de5285;
 	padding-left: 4px;
 }
 .why-choose .choose-right .video:hover{
@@ -1027,13 +1027,13 @@ header .nav-menu a:hover {
 	margin-right:20px;
 	font-weight:500;
 	border:1px solid #fff;
-	color:#1a76d1;
+	color:#de5285;
 }
 .call-action .content .btn:before{
-	background:#1A76D1;
+	background:#de5285;
 }
 .call-action .content .btn:hover{
-	background:#1A76D1;
+	background:#de5285;
 	color:#fff;
 }
 .call-action .content .btn:last-child{
@@ -1049,7 +1049,7 @@ header .nav-menu a:hover {
 	background:#fff;
 }
 .call-action .content .second:hover{
-	color:#1A76D1;
+	color:#de5285;
 	border-color:transparent;
 	background:#fff;
 }
@@ -1080,7 +1080,7 @@ header .nav-menu a:hover {
 	top:0;
 	height:100%;
 	width:100%;
-	background:#1a76d1;
+	background:#de5285;
 	opacity:0;
 	visibility:hidden;
 	-webkit-transition:all 0.4s ease;
@@ -1093,7 +1093,7 @@ header .nav-menu a:hover {
 	visibility:visible;
 }
 .portfolio .single-pf .btn {
-	color: #1a76d1;
+	color: #de5285;
 	z-index: 3;
 	background: #fff;
 	position: absolute;
@@ -1139,7 +1139,7 @@ header .nav-menu a:hover {
 	width: 50px;
 	line-height: 45px;
 	background: #fff;
-	color: #1A76D1;
+	color: #de5285;
 	position: absolute;
 	margin: 0;
 	border-radius: 100%;
@@ -1152,7 +1152,7 @@ header .nav-menu a:hover {
 }
 .pf-details .image-slider .owl-carousel .owl-nav div:hover{
 	color:#fff;
-	background:#1A76D1;
+	background:#de5285;
 }
 .pf-details .image-slider .owl-carousel .owl-controls .owl-nav .owl-prev{
 	left:20px;
@@ -1168,7 +1168,7 @@ header .nav-menu a:hover {
 	width:100%;
 }
 .pf-details .date{
-	background: #1a76d1;
+	background: #de5285;
 	display: block;
 	padding: 20px;
 	text-align: center;
@@ -1232,7 +1232,7 @@ header .nav-menu a:hover {
 .pf-details .body-text .share ul li a:hover{
 	color:#fff;
 	border-color:transparent;
-	background:#1A76D1;
+	background:#de5285;
 }
 /*==========================
 	End Portfolio CSS
@@ -1248,7 +1248,7 @@ header .nav-menu a:hover {
 }
 .services .single-service i{
 	font-size:45px;
-	color:#1a76d1;
+	color:#de5285;
 	position:absolute;
 	left:0;
 	-webkit-transition:all 0.4s ease;
@@ -1266,7 +1266,7 @@ header .nav-menu a:hover {
 	font-weight:600;
 }
 .services .single-service h4 a:hover{
-	color:#1A76D1;
+	color:#de5285;
 }
 .services .single-service p{
 	color:#868686;
@@ -1291,7 +1291,7 @@ header .nav-menu a:hover {
 .services-details-img blockquote {
 	font-size: 15px;
 	color: #4a6f8a;
-	background-color: #1a76d1;
+	background-color: #de5285;
 	padding: 30px 75px;
 	line-height: 26px;
 	position: relative;
@@ -1325,7 +1325,7 @@ header .nav-menu a:hover {
 	font-weight: 600;
 	font-size: 30px;
 	margin-bottom: 15px;
-	border-left: 3px solid #1a76d1;
+	border-left: 3px solid #de5285;
 	padding-left: 15px;
 }
 .service-details-inner p {
@@ -1448,7 +1448,7 @@ header .nav-menu a:hover {
 	background:transparent;
 }
 .departments .department-tab .nav li a.active i{
-	color:#1a76d1;
+	color:#de5285;
 }
 .departments .department-tab .nav li a {
 	color: #fff;
@@ -1460,7 +1460,7 @@ header .nav-menu a:hover {
 	padding:0 10px 20px 10px;
 }
 .departments .department-tab .nav li a.active{
-	border-color:#1a76d1;
+	border-color:#de5285;
 }
 .departments .department-tab .nav li span{
 	display:block;
@@ -1498,7 +1498,7 @@ header .nav-menu a:hover {
 	background:#2C2D3F;
 }
 .departments .department-tab .tab-pane .department-left .p1 {
-	color: #1a76d1;
+	color: #de5285;
 	font-weight: 500;
 	margin-bottom: 18px;
 }
@@ -1520,7 +1520,7 @@ header .nav-menu a:hover {
 	width: 15px;
 	line-height: 15px;
 	color: #fff;
-	background: #1a76d1;
+	background: #de5285;
 	text-align: center;
 	border-radius: 100%;
 	font-size: 8px;
@@ -1560,7 +1560,7 @@ header .nav-menu a:hover {
 }
 .pricing-table .single-table .icon i{
 	font-size:65px;
-	color:#1a76d1;
+	color:#de5285;
 }
 .pricing-table .single-table .title {
 	font-size: 21px;
@@ -1571,7 +1571,7 @@ header .nav-menu a:hover {
 .pricing-table .single-table .amount {
 	font-size:36px;
 	font-weight:600;
-	color:#1a76d1;
+	color:#de5285;
 }
 .pricing-table .single-table .amount span{
 	display:inline-block;
@@ -1610,7 +1610,7 @@ header .nav-menu a:hover {
 	line-height: 16px;
 	text-align: center;
 	color: #fff;
-	background: #1a76d1;
+	background: #de5285;
 	border-radius: 100%;
 	padding-left: 1px;
 }
@@ -1770,7 +1770,7 @@ header .nav-menu a:hover {
 	color: #2C2D3F;
 }
 .team .t-bottom h2 a:hover{
-	color:#1A76D1;
+	color:#de5285;
 }
 /*-- Doctor Details --*/
 .doctor-details-left {
@@ -1809,7 +1809,7 @@ header .nav-menu a:hover {
 }
 .doctor-details-item .doctor-details-contact .basic-info li i {
 	display: inline-block;
-	color: #1A76D1;
+	color: #de5285;
 	margin-right: 8px;
 	font-size: 16px;
 	position: relative;
@@ -1840,7 +1840,7 @@ header .nav-menu a:hover {
 }
 .doctor-details-area .doctor-details-left .social li a:hover{
 	color:#fff;
-	background:#1A76D1;
+	background:#de5285;
 	border-color:transparent;
 }
 .doctor-details-item .doctor-details-work h3 {
@@ -1952,7 +1952,7 @@ header .nav-menu a:hover {
 	bottom:0;
 	height:2px;
 	width:0%;
-	background:#1A76D1;
+	background:#de5285;
 	opacity:0;
 	visibility:hidden;
 	-webkit-transition:all 0.4s ease;
@@ -1975,7 +1975,7 @@ header .nav-menu a:hover {
 	font-weight: 500;
 }
 .blog .single-news .news-body h2 a:hover{
-	color:#1A76D1;
+	color:#de5285;
 }
 .blog .single-news .news-content p {
 	font-weight: 400;
@@ -1988,7 +1988,7 @@ header .nav-menu a:hover {
 	display: inline-block;
 	font-size: 14px;
 	margin-bottom: 5px;
-	background: #1A76D1;
+	background: #de5285;
 	color: #fff;
 	padding: 4px 15px;
 	border-radius: 3px;
@@ -2030,7 +2030,7 @@ header .nav-menu a:hover {
 	bottom: -1px;
 	height: 100%;
 	width: 3px;
-	background: #1A76D1;
+	background: #de5285;
 }
 .main-sidebar .single-widget:last-child{
 	margin:0;
@@ -2075,7 +2075,7 @@ header .nav-menu a:hover {
 	border-radius: 0 5px 5px 0;
 }
 .main-sidebar .search .button:hover {
-	background:#1A76D1;
+	background:#de5285;
 	color:#fff;
 }
 /* Category List */
@@ -2094,7 +2094,7 @@ header .nav-menu a:hover {
 	font-size:14px;
 }
 .main-sidebar .categor-list li a:hover{
-	color:#1A76D1;
+	color:#de5285;
 	padding-left:7px;
 }
 .main-sidebar .categor-list li a i {
@@ -2147,7 +2147,7 @@ header .nav-menu a:hover {
 	margin-top: 0;
 }
 .main-sidebar .single-post .content h5 a:hover{
-	color:#1A76D1;
+	color:#de5285;
 }
 .main-sidebar .single-post .content .comment li{
 	color:#888;
@@ -2184,7 +2184,7 @@ header .nav-menu a:hover {
 }
 .main-sidebar .side-tags .tag a:hover{
 	color:#fff;
-	background:#1A76D1;
+	background:#de5285;
 	border-color:transparent;
 }
 /* News Single */
@@ -2214,7 +2214,7 @@ header .nav-menu a:hover {
 	font-weight: 600;
 }
 .news-single .news-title a:hover {
-	color: #1A76D1;
+	color: #de5285;
 }
 /* Blog Meta */
 .news-single{
@@ -2241,7 +2241,7 @@ header .nav-menu a:hover {
 }
 .news-single .meta span i {
 	margin-right: 5px;
-	color:#1A76D1;
+	color:#de5285;
 }
 .news-single .meta-left{
 	float:left;
@@ -2367,7 +2367,7 @@ header .nav-menu a:hover {
 }
 .news-single .prev-next li a:hover{
 	color:#fff;
-	background:#1A76D1;
+	background:#de5285;
 	border-color:transparent;
 }
 /* Blog Comments */
@@ -2486,7 +2486,7 @@ header .nav-menu a:hover {
 	display: inline-block;
 	margin-top: 10px;
 	border-radius: 4px;
-	background:#1A76D1;
+	background:#de5285;
 	color:#fff;
 }
 .news-single .single-comments a:hover{
@@ -2536,7 +2536,7 @@ header .nav-menu a:hover {
 	left: 12px;
 	top: 17px;
 	z-index: 1;
-	color: #1A76D1;
+	color: #de5285;
 }
 .news-single .form-group input {
 	width: 100%;
@@ -2607,7 +2607,7 @@ header .nav-menu a:hover {
 }
 .news-single .form-group.button .btn{
 	background:#fff;
-	background:#1A76D1;
+	background:#de5285;
 	color:#fff;
 }
 .news-single .form-group.button .btn:hover{
@@ -2705,7 +2705,7 @@ header .nav-menu a:hover {
 }
 .appointment .form-group .list li:hover {
 	color:#fff;
-	background: #1A76D1;
+	background: #de5285;
 }
 .appointment.single-page .button .btn{
 	width:100%;
@@ -2721,7 +2721,7 @@ header .nav-menu a:hover {
 	color:#868686;
 }
 .appointment.single-page .work-hour{
-	background:#1A76D1;
+	background:#de5285;
 	padding: 40px;
 	box-shadow: 0px 0px 10px #00000024;
 	border-radius: 5px;
@@ -2793,7 +2793,7 @@ header .nav-menu a:hover {
 	bottom:0;
 	height:2px;
 	width:50px;
-	background:#1A76D1;
+	background:#de5285;
 }
 .login .login-form p {
 	font-size: 14px;
@@ -2805,7 +2805,7 @@ header .nav-menu a:hover {
 .login .login-form p a{
 	display:inline-block;
 	margin-left:5px;
-	color:#1A76D1;
+	color:#de5285;
 }
 .login .login-form p a:hover{
 	color:#2C2D3F;
@@ -2841,7 +2841,7 @@ header .nav-menu a:hover {
 	width:100%;
 }
 .login .form .btn:hover{
-	background:#1A76D1;
+	background:#de5285;
 	color:#fff;
 }
 .login .login-form .checkbox {
@@ -2871,7 +2871,7 @@ header .nav-menu a:hover {
 	top: 5px;
 	width: 15px;
 	height: 15px;
-	border: 1px solid #1A76D1;
+	border: 1px solid #de5285;
 	border-radius: 100%;
 }
 .login .login-form .checkbox label::after {
@@ -2889,7 +2889,7 @@ header .nav-menu a:hover {
 	transition: all 0.4s ease;
 	display: block;
 	font-size: 9px;
-	background: #1A76D1;
+	background: #de5285;
 	border-radius: 100%;
 }
 .login .login-form .checkbox label.checked::after{
@@ -2905,7 +2905,7 @@ header .nav-menu a:hover {
 	font-weight:400;
 }
 .login .login-form .lost-pass:hover{
-	color:#1A76D1;
+	color:#de5285;
 }
 /*====================
    End Login CSS
@@ -2948,7 +2948,7 @@ header .nav-menu a:hover {
 	bottom:0;
 	height:2px;
 	width:50px;
-	background:#1A76D1;
+	background:#de5285;
 }
 .register .register-form p {
 	font-size: 14px;
@@ -2960,7 +2960,7 @@ header .nav-menu a:hover {
 .register .register-form p a{
 	display:inline-block;
 	margin-left:5px;
-	color:#1A76D1;
+	color:#de5285;
 }
 .register .register-form p a:hover{
 	color:#2C2D3F;
@@ -2996,7 +2996,7 @@ header .nav-menu a:hover {
 	width:100%;
 }
 .register .form .btn:hover{
-	background:#1A76D1;
+	background:#de5285;
 	color:#fff;
 }
 .register .register-form .checkbox {
@@ -3026,7 +3026,7 @@ header .nav-menu a:hover {
 	top: 5px;
 	width: 15px;
 	height: 15px;
-	border: 1px solid #1A76D1;
+	border: 1px solid #de5285;
 	border-radius: 100%;
 }
 .register .register-form .checkbox label::after {
@@ -3044,7 +3044,7 @@ header .nav-menu a:hover {
 	transition: all 0.4s ease;
 	display: block;
 	font-size: 9px;
-	background: #1A76D1;
+	background: #de5285;
 	border-radius: 100%;
 }
 .register .register-form .checkbox label.checked::after{
@@ -3055,7 +3055,7 @@ header .nav-menu a:hover {
 .register .register-form  .terms{
 	display:inline-block;
 	margin-left:5px;
-	color:#1A76D1;
+	color:#de5285;
 }
 .register .register-form .terms:hover{
 	color:#2C2D3F;
@@ -3103,7 +3103,7 @@ header .nav-menu a:hover {
 }
 .accordion a:hover {
   color:#fff !important;
-  background:#1A76D1 !important;
+  background:#de5285 !important;
 }
 .accordion a:after {
   position: absolute;
@@ -3130,8 +3130,8 @@ header .nav-menu a:hover {
 }
 .accordion li a.active {
   color: #ffffff;
-  background-color: #1A76D1;
-  border: 1px solid #1A76D1;
+  background-color: #de5285;
+  border: 1px solid #de5285;
 }
 .accordion li a.active:after {
   content: "-";
@@ -3175,7 +3175,7 @@ header .nav-menu a:hover {
 	bottom:0;
 	height:2px;
 	width:50px;
-	background:#1A76D1;
+	background:#de5285;
 }
 .contact-us .contact-us-form p {
 	font-size: 14px;
@@ -3226,7 +3226,7 @@ header .nav-menu a:hover {
 	width:100%;
 }
 .contact-us .form .btn:hover{
-	background:#1A76D1;
+	background:#de5285;
 	color:#fff;
 }
 .contact-us .contact-us-form .checkbox {
@@ -3256,7 +3256,7 @@ header .nav-menu a:hover {
 	top: 5px;
 	width: 15px;
 	height: 15px;
-	border: 1px solid #1A76D1;
+	border: 1px solid #de5285;
 	border-radius: 100%;
 }
 .contact-us .contact-us-form .checkbox label::after {
@@ -3274,7 +3274,7 @@ header .nav-menu a:hover {
 	transition: all 0.4s ease;
 	display: block;
 	font-size: 9px;
-	background: #1A76D1;
+	background: #de5285;
 	border-radius: 100%;
 }
 .contact-us .contact-us-form .checkbox label.checked::after{
@@ -3286,7 +3286,7 @@ header .nav-menu a:hover {
 	margin-top:50px;
 }
 .contact-us .single-info {
-	background: #1a76d1;
+	background: #de5285;
 	padding: 40px 60px;
 	height: 150px;
 	border-radius: 10px;
@@ -3356,7 +3356,7 @@ header .nav-menu a:hover {
 .error-page .error-inner h1 {
 	font-size: 140px;
 	text-shadow: 3px 5px 2px #3333;
-	color: #1A76D1;
+	color: #de5285;
 	font-weight: 700;
 }
 .error-page .error-inner h1 span {
@@ -3393,7 +3393,7 @@ header .nav-menu a:hover {
 	height: 50px;
 	border-radius: 5px;
 	cursor: pointer;
-	background: #1A76D1;
+	background: #de5285;
 	display: inline-block;
 	position: relative;
 	top: -2px;
@@ -3419,7 +3419,7 @@ header .nav-menu a:hover {
 .mail-seccess .success-inner h1 {
 	font-size: 100px;
 	text-shadow: 3px 5px 2px #3333;
-	color: #1A76D1;
+	color: #de5285;
 	font-weight: 700;
 }
 .mail-seccess .success-inner h1 span {
@@ -3513,7 +3513,7 @@ header .nav-menu a:hover {
 .doctor-calendar-table table thead tr th {
   vertical-align: middle;
   text-align: center;
-  background-color: #1A76D1;
+  background-color: #de5285;
   border: none;
   color: #ffffff;
   text-transform: uppercase;
@@ -3560,7 +3560,7 @@ header .nav-menu a:hover {
 .doctor-calendar-table table tbody tr td span.time {
   display: inline-block;
   background-color: #dff5e8;
-  color: #1A76D1;
+  color: #de5285;
   width: 65px;
   height: 65px;
   border-radius: 50%;
@@ -3571,8 +3571,8 @@ header .nav-menu a:hover {
   font-size: 16px;
 }
 .doctor-calendar-table table tbody tr td:hover {
-  background-color: #1A76D1;
-  border-color: #1A76D1;
+  background-color: #de5285;
+  border-color: #de5285;
 }
 .doctor-calendar-table table tbody tr td:hover h3 {
   color: #ffffff;
@@ -3582,7 +3582,7 @@ header .nav-menu a:hover {
 }
 .doctor-calendar-table table tbody tr td:hover span.time {
   background-color: #ffffff;
-  color: #1A76D1;
+  color: #de5285;
 }
 .doctor-calendar-table table tbody tr:last-child td {
   border-bottom: none;
@@ -3618,7 +3618,7 @@ header .nav-menu a:hover {
 .about-content span {
   display: block;
   margin-bottom: 5px;
-  color: #1A76D1;
+  color: #de5285;
   font-size: 17px;
 }
 .about-content h2 {
@@ -3648,8 +3648,8 @@ header .nav-menu a:hover {
 	line-height: 25px;
 	text-align: center;
 	border-radius: 100%;
-	background-color: #1A76D12B;
-	color: #1A76D1;
+	background-color: #de52852B;
+	color: #de5285;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
 	display: inline-block;
@@ -3659,7 +3659,7 @@ header .nav-menu a:hover {
 	top: -2px;
 }
 .about-content ul li:hover i {
-  background-color: #1A76D1;
+  background-color: #de5285;
   color: #ffffff;
 }
 .about-content ul li:last-child {
@@ -3693,7 +3693,7 @@ header .nav-menu a:hover {
   height: 60px;
   line-height: 60px;
   border-radius: 100%;
-  background-color: #1A76D1;
+  background-color: #de5285;
   color: #ffffff;
   font-size: 25px;
   -webkit-transition: 0.5s;
@@ -3721,7 +3721,7 @@ header .nav-menu a:hover {
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #1A76D1;
+  background-color: #de5285;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -3748,7 +3748,7 @@ header .nav-menu a:hover {
 }
 .single-vision-box:hover .icon {
   background-color: #fff;
-  color: #1A76D1;
+  color: #de5285;
 }
 .single-vision-box:hover h3 {
   color: #ffffff;
@@ -3788,7 +3788,7 @@ header .nav-menu a:hover {
 .our-mission-content .sub-title {
   display: block;
   margin-bottom: 5px;
-  color: #1A76D1;
+  color: #de5285;
   font-size: 17px;
 }
 .our-mission-content h2 {
@@ -3835,7 +3835,7 @@ header .nav-menu a:hover {
   line-height: 50px;
   text-align: center;
   border-radius: 50%;
-  color: #1A76D1;
+  color: #de5285;
   font-size: 20px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -3849,7 +3849,7 @@ header .nav-menu a:hover {
   font-size: 17px;
 }
 .our-mission-content ul li:hover .icon {
-  background-color: #1A76D1;
+  background-color: #de5285;
   color: #ffffff;
   border-radius: 100%;
 }
@@ -3868,7 +3868,7 @@ header .nav-menu a:hover {
 .footer .footer-top{
 	padding:100px 0px;
 	position:relative;
-	background:#1A76D1;
+	background:#de5285;
 }
 .footer .footer-top:before{
 	position:absolute;
@@ -3904,7 +3904,7 @@ header .nav-menu a:hover {
 	font-size: 16px;
 }
 .footer .single-footer .social li a:hover{
-	color:#1A76D1;
+	color:#de5285;
 	background:#fff;
 	border-color:transparent;
 }
@@ -4032,7 +4032,7 @@ header .nav-menu a:hover {
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
 	border-radius: 0 5px 5px 0;
-	color: #1A76D1;
+	color: #de5285;
 	font-size: 25px;
 }
 .footer .single-footer .newsletter-inner .button i{
@@ -4044,7 +4044,7 @@ header .nav-menu a:hover {
 	color:#2C2D3F;
 }
 .footer .copyright{
-	background:#1A76D1;
+	background:#de5285;
 	padding:25px 0px 25px 0px;
 	text-align:center;
 }
